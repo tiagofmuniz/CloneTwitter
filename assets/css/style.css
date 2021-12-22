@@ -1,23 +1,4 @@
-/* CSS => Cascading StyleSheet(Folha de estilo em cascata)
 
-Estrutura
-
-Regra CSS:
-seletor {
-    propriedade: valor; -> declaração
-}
-
-CSS BEM
-
-B -> Bloco
-E -> Elemento
-M -> Modificador
-
-font-family: 'Roboto', sans-serif;
-
-*/
-
-/* BODY */
 body{
     font-family: 'Roboto', sans-serif;
 }
